@@ -72,7 +72,7 @@ __Next step you should do is to include a css file the same way__
     
     <head>
         <script src="path/notify/script.js"></script>
-        <link rel="stylesheet" href="path/notify/styles.css">
+        <link rel="stylesheet" href="path/notify/message.css">
     </head>
 
 __All is ready for start working__
